@@ -1,7 +1,11 @@
 import React from "react";
 
 const App = () => {
-  return <div>hlo this chapter is completly based on redux</div>;
+  return (
+    <div>
+      <h1>Increament and Decrement Counter</h1>
+    </div>
+  );
 };
 
 export default App;

@@ -1,6 +1,7 @@
 import React from "react";
-
+import { useSelector } from "react-redux";
 const App = () => {
+  const curState = useSelector((state) => state.number);
   return (
     <>
       <div
@@ -13,7 +14,7 @@ const App = () => {
         }}
       >
         <h1>Increament/Decrement Counter</h1>
-        <h1>0</h1>
+        <h1>{curState}</h1>
         <div>
           <button>DEC</button>
           <button>INC</button>

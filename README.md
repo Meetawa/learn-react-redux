@@ -1,16 +1,12 @@
-# "Learn-Redux"
+# Getting Started with Create React App
 
-### Full Course Please Read MD files
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-### Author Links
+In the project directory, you can run:
 
-👋 Hello, I'm Rahul Saini.
+### `npm start`
 
-🚀 Follow Me:
-
-- [Twitter](https://twitter.com/rahumeetawa)
-- [LinkedIn](https://www.linkedin.com/in/rahul-saini-3950501a2/)
-
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
